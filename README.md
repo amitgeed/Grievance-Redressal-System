@@ -1,2 +1,2 @@
 # Grievance-Redressal-System
-Java based grievance redressal system
+Java based grievance redressal system for institutes
