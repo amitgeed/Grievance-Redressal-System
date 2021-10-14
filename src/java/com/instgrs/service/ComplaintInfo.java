@@ -30,7 +30,7 @@ public class ComplaintInfo {
    @Override
    protected PasswordAuthentication getPasswordAuthentication() {
         //char  password[] = "9009557337".toCharArray();
-        return new PasswordAuthentication("status.experts@gmail.com","status99");//change accordingly
+        return new PasswordAuthentication("YOUR_EMAIL","YOUR_PASSWORD");//change accordingly
    }
   });
 
